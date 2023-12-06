@@ -7,4 +7,4 @@
 
 
 # Give Me Money to support my bad hobby
-![payme](assets/me-imgs/payme.jpg)
+[payme](https://gitee.com/zbs_139/jet-act-code/raw/master/payme.jpg)
