@@ -2,9 +2,9 @@
 
 # Menu
 1. [第一次ruby rails尝试](MD/第一次ruby-rails尝试.md)
-
+2. [使用readme 9a 作为服务器安静享用](MD/使用readme 9a 作为服务器安静享用.md)
 
 
 
 # Give Me Money to support my bad hobby
-[payme](https://gitee.com/zbs_139/jet-act-code/raw/master/payme.jpg)
+[payme](./assets/me-imgs/payme.jpg)
