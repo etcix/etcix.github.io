@@ -13,3 +13,4 @@
 
 # 参考repo
 - [zig c sdl sample](https://gitee.com/nidielaila/my-zig-0.11.0-sdl-test)
+# I dont use zig now and anymore(2023-12-26)
